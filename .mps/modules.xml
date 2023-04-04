@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/dlang.runtime/dlang.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/dlang/dlang.mpl" folder="" />
+    </projectModules>
+  </component>
+</project>

@@ -3,6 +3,10 @@
 		"D5n9sMatrix"
 	],
 	"copyright": "Copyright ® 2023, D5n9sMatrix",
+	"dependencies": {
+		"dlangide": "~>0.8.17",
+		"dlangui": "~>0.10.2"
+	},
 	"description": "editor dlang ides",
 	"license": "MIT",
 	"name": "dlang"
